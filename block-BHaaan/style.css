@@ -83,6 +83,9 @@ img{
     font-size: 18px;
     margin-bottom: 16px;
 }
+a{
+    background-color: blue;
+}
 .footer{
     background-color: #9090e8;
     text-align: center;
